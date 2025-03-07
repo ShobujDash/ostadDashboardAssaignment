@@ -1,2 +1,2 @@
-https://ostaddashboard.netlify.app/
-apexchart gula responsive korte pari nai bhai:)
+## Deploy link
+https://ostad-dashboard-assaignment.vercel.app/
